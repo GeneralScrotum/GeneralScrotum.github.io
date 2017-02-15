@@ -1,0 +1,32 @@
+body{
+    background-image: url(real_page/Images/nightsky.jpg);
+    background-size: contain;
+    background-attachment: fixed;
+}
+
+.login_input{
+    color: lightblue;
+}
+
+.input{
+    background-color: white;
+    color: black;
+}
+
+.login_button{
+    padding: 5px;
+    border: none;
+    
+    height: 30px;
+    width: 60px;
+    
+    background-color: black;
+    color: white;
+    
+    transition: all .3s ease-in;
+}
+
+.login_button:hover{
+    background-color: #485fcd;
+    color: white;
+}

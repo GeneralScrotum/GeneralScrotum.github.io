@@ -1,0 +1,51 @@
+body{
+    background-image: url(Images/nightsky.jpg);
+    background-size: contain;
+    background-attachment: fixed;
+}
+
+#happiness{
+    font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
+    font-size: 160px;
+    
+    color: white;
+    
+    margin-top: 250px;
+}
+
+#shino{
+    height: 700px;
+    
+    margin-left: 60%;
+    margin-top: 15%;
+}
+
+#aya{
+    height: 550px; 
+    
+    margin-top: 20%;
+}
+
+#alice{
+    height: 500px;
+    
+    margin-top: 20%;
+    margin-left: 60%;
+}
+
+#yoko{
+    height: 600px;
+    
+    margin-top: 20%;
+    margin-left: 2%;
+}
+
+#end{
+    font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+    
+    color: white;
+    
+    margin-top: 50%;
+}

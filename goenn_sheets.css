@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+}
+
+h1{
+    font-family: "Lucida Console";
+    color: limegreen;
+}
+
+.p_grey{
+    font-family: "Lucida Console";
+    
+    background-color: grey;
+    color: black;
+    
+    padding: 3px;
+}
+
+.p_white{
+    font-family: "Lucida Console";
+    
+    background-color: lightgrey;
+    color: black;
+    
+    padding: 3px;
+}
+
+#wtf{
+    margin-left: 45%;
+    margin-top: 10%;
+    
+    border: none;
+    border-radius: 40px;
+    padding: 3px;
+    
+    background-color: limegreen;
+}
